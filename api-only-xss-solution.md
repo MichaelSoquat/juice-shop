@@ -1,4 +1,4 @@
-#Challenge: 
+# Challenge: 
 
 Name: API-only XSS
 

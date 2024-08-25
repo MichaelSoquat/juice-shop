@@ -8,11 +8,11 @@ Difficulty: 3 star
 
 Category: XSS
 
-##Tools used:
+## Tools used:
 
 Burpsuite
 
-##Resources used:
+## Resources used:
 
 None.
 

@@ -1,3 +1,11 @@
+# Table of contents
+
+- [Challenge](#challenge)
+- [Tools](#tools)
+- [Resources](#resources)
+- [Solution](#solution)
+- [Video](#video)
+
 # Challenge: 
 
 Name: Admin registration
@@ -8,11 +16,11 @@ Difficulty: 3 star
 
 Category: Improper input validation
 
-## Tools used:
+# Tools:
 
 Burpsuite, jwt.io
 
-## Resources used:
+# Resources:
 
 None.
 
@@ -34,7 +42,7 @@ None.
    
 8. Forward the request and you are an admin now
 
-# Link to my video: 
+# Video: 
 
 https://www.loom.com/share/2ca2bd47109a4fd0a07bc3bd2db2bded?sid=607e9019-82b1-46c8-8ce2-126c4a4cab1a
 

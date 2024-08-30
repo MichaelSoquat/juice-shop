@@ -16,6 +16,8 @@ Difficulty: 3 star
 
 Category: XSS
 
+The videos and solution descriptions in the OWASP Juice Shop are for educational purposes only.
+
 # Tools:
 
 Burpsuite

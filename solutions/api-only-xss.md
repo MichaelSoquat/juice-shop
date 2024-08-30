@@ -1,3 +1,11 @@
+# Table of contents
+
+- [Challenge](#challenge)
+- [Tools](#tools)
+- [Resources](#resources)
+- [Solution](#solution)
+- [Video](#video)
+
 # Challenge: 
 
 Name: API-only XSS
@@ -8,11 +16,11 @@ Difficulty: 3 star
 
 Category: XSS
 
-## Tools used:
+# Tools:
 
 Burpsuite
 
-## Resources used:
+# Resources:
 
 None.
 
@@ -48,6 +56,6 @@ None.
     
 13. If you send the request now the XSS is persistent
 
-# Link to my video: 
+# Video: 
 
 https://www.loom.com/share/f0a2ef1c65474d88bf2dd0e8cf229d23?sid=b72eabcf-3e63-484e-9796-82c177bb392e

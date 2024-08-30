@@ -29,3 +29,7 @@ None.
 7. Now you can manually trigger this request 10 times in 20 seconds and solve this challenge
    
 # Link to my video: 
+
+´´´
+https://www.loom.com/share/f6d1af8db61b43f991b28091dc29e959?sid=1d6025d7-a546-47f6-92c4-46a0b22abbf2
+´´´

@@ -17,6 +17,8 @@ Difficulty: 3 star
 
 Category: Broken Anti Automation
 
+The videos and solution descriptions in the OWASP Juice Shop are for educational purposes only.
+
 # Tools:
 
 Burpsuite

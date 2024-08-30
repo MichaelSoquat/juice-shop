@@ -1,3 +1,12 @@
+# Table of contents
+
+- [Challenge](#challenge)
+- [Tools](#tools)
+- [Resources](#resources)
+- [Solution](#solution)
+- [Video](#video)
+
+
 # Challenge: 
 
 Name: Captcha bypass
@@ -8,11 +17,11 @@ Difficulty: 3 star
 
 Category: Broken Anti Automation
 
-## Tools used:
+# Tools:
 
 Burpsuite
 
-## Resources used:
+# Resources:
 
 None.
 
@@ -28,7 +37,7 @@ None.
 6. So we can simply copy this request and add it to the repeater
 7. Now you can manually trigger this request 10 times in 20 seconds and solve this challenge
    
-# Link to my video: 
+# Video: 
 
 https://www.loom.com/share/f6d1af8db61b43f991b28091dc29e959?sid=1d6025d7-a546-47f6-92c4-46a0b22abbf2
 
